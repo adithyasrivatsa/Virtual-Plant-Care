@@ -31,7 +31,7 @@ pip install -r requirements.txt
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/herohero149/Virtual-Plant-Care
+   git clone https://github.com/adithyasrivatsa/Virtual-Plant-Care
    cd virtual-plant-care
    ```
 
